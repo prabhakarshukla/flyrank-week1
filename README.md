@@ -1,50 +1,77 @@
-# FlyRank — Frontend AI Engineering Capstone
+# FlyRank — Frontend AI Engineering Internship
 
-A capstone project for the Frontend AI Engineering program. This repository contains the frontend application and related work for building an AI-powered user experience.
+This repository tracks work for the **FlyRank Frontend AI Engineering Internship**. FlyRank is a frontend-focused project that will explore how modern web technologies and AI can work together to deliver useful, responsive interfaces.
 
-## About
+At this stage, the repository contains **Week 1 environment setup** only. Application code and tooling will be added in later weeks.
 
-FlyRank is a frontend-focused project that explores how modern web technologies and AI can work together to deliver useful, responsive interfaces.
+## Project Overview
 
-## Getting Started
+FlyRank is an internship capstone project centered on building AI-assisted frontend experiences. The goal is to learn professional development practices—version control, AI-assisted coding, and iterative delivery—while progressing toward a full frontend application over the course of the program.
 
-### Prerequisites
+## Week 1 Objective
 
-- [Node.js](https://nodejs.org/) (v18 or later recommended)
-- npm, yarn, or pnpm
+Week 1 focuses on **environment and workflow setup**:
 
-### Installation
+- Initialize and connect a Git repository
+- Configure a local development workspace
+- Establish an AI-assisted development workflow with Cursor
+- Document the project foundation in this README
 
-```bash
-git clone <repository-url>
-cd flyrank-week1
-npm install
-```
+No application code is present yet. The emphasis is on preparing the tools and habits that will support the weeks ahead.
 
-### Development
-
-```bash
-npm run dev
-```
-
-Open the URL shown in your terminal (typically `http://localhost:5173` or `http://localhost:3000`) to view the app.
-
-## Tech Stack
-
-- React
-- TypeScript
-- Vite (or your chosen build tool)
-- AI/LLM integration (TBD)
-
-## Project Structure
+## Repository Contents
 
 ```
 flyrank-week1/
-├── src/           # Application source code
-├── public/        # Static assets
-└── README.md
+└── README.md    # Project documentation (this file)
 ```
+
+Additional directories, configuration, and source files will be introduced in future weeks as the project evolves.
+
+## Tools Used
+
+| Tool | Purpose |
+|------|---------|
+| **Git** | Version control, commit history, and collaboration |
+| **GitHub** | Remote repository hosting and pull request workflow |
+| **Cursor** | AI-native code editor for assisted development |
+
+## Git Workflow
+
+This project follows a simple, professional Git workflow:
+
+1. **Clone** the repository to your local machine.
+2. **Create a branch** for each unit of work (e.g. `week-1-setup`, `feature/add-component`).
+3. **Commit often** with clear, descriptive messages that explain *why* a change was made.
+4. **Push** your branch to GitHub when a logical chunk of work is complete.
+5. **Open a pull request** for review before merging into `main`.
+
+Keep `main` stable. Use branches for experiments, fixes, and new features.
+
+## AI Workflow Using Cursor
+
+Cursor is the primary environment for AI-assisted development in this internship. A practical workflow:
+
+1. **Provide context** — Reference relevant files, docs, or prior conversation when asking for help.
+2. **Be specific** — Describe the goal, constraints, and expected outcome rather than vague requests.
+3. **Review before accepting** — Read AI-generated changes carefully; treat suggestions as drafts, not final code.
+4. **Iterate** — Refine prompts, ask follow-up questions, and narrow scope when results miss the mark.
+5. **Learn from the output** — Use explanations to build understanding, not only to produce code faster.
+
+AI is a collaborator, not a substitute for judgment. Understanding what the tools produce remains the intern's responsibility.
+
+## Future Roadmap
+
+| Phase | Focus |
+|-------|-------|
+| **Week 1** | Environment setup, Git workflow, Cursor configuration *(current)* |
+| **Week 2+** | Frontend project scaffolding and tooling |
+| **Mid-program** | Core UI, components, and user-facing features |
+| **Later weeks** | AI/LLM integration and interactive experiences |
+| **Capstone** | Polished application with documentation and deployment |
+
+Details for each phase will be updated in this README as the internship progresses.
 
 ## License
 
-This project is for educational purposes as part of the Frontend AI Engineering capstone.
+This project is for educational purposes as part of the Frontend AI Engineering internship program.
