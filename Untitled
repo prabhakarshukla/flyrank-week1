@@ -1,0 +1,74 @@
+# CLAUDE.md
+
+## Project Overview
+
+This repository is part of the **FlyRank Frontend AI Engineering Internship**.
+
+The purpose of this repository is to document the internship progress, maintain a professional Git workflow, and build frontend projects using AI-assisted development practices.
+
+---
+
+## AI Assistant Guidelines
+
+When assisting with this project:
+
+- Understand the existing code before making changes.
+- Suggest production-quality solutions.
+- Explain the reasoning behind important decisions.
+- Prefer readability over clever implementations.
+- Avoid unnecessary dependencies.
+- Keep solutions simple unless complexity is required.
+
+---
+
+## Coding Standards
+
+- Write clean, maintainable code.
+- Use meaningful variable and function names.
+- Keep files organized.
+- Add comments only when they improve clarity.
+- Follow consistent formatting.
+
+---
+
+## Git Commit Convention
+
+Use Conventional Commits.
+
+Examples:
+
+- feat: add authentication page
+- fix: resolve navbar layout issue
+- docs: update README
+- chore: add gitignore
+- refactor: simplify component logic
+
+---
+
+## AI Workflow
+
+Before accepting AI-generated code:
+
+1. Review every change.
+2. Verify correctness.
+3. Test locally.
+4. Commit only reviewed code.
+
+AI should assist development—not replace engineering judgment.
+
+---
+
+## Documentation Rules
+
+Keep documentation updated whenever:
+
+- New features are added.
+- Project structure changes.
+- Setup instructions change.
+- Development workflow changes.
+
+---
+
+## Goal
+
+Build a professional, well-documented repository while following modern frontend engineering practices throughout the internship.
